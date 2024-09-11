@@ -8,7 +8,7 @@ To elaborate, this project uses an LCD, LED matrix, Arduino UNO, and a Joystick 
 In a way this is my console! You can use the joystick to move around a red dot character in the LED matrix. I'll be adding
 games that function only to this console. 
 
-![LEDgif](assets/LEDgif.gif)
+![LEDgif](assets/LEDMove.gif)
 
 Currently this project is in very early development and doesn't actually have any games.
 
