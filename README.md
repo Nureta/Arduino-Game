@@ -9,7 +9,7 @@ Currently this project is in very early development and doesn't actually have an
 - [Road Map](#Road-Map)
 - [Exporting this project](#Exporting-this-project)
   - [Circuit](#Circuit)
-  - [How to build?](#How-to-build?) 
+  - [How to build?](#How to build?) 
 ### Road Map
 - [x] Playable screen
 - [ ] Apple Catching Game
